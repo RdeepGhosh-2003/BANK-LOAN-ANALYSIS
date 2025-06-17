@@ -44,7 +44,8 @@ Includes segmentation by:
 - Funded and Received amounts by status
 
 
----
+---<img width="670" alt="Screenshot 2025-06-07 234817" src="https://github.com/user-attachments/assets/a64711dd-89ce-497e-8194-e6b9e059f0d8" />
+
 
 ### 📍 Dashboard 2: Overview Charts
 
@@ -55,6 +56,7 @@ Visual analytics to detect patterns:
 - **Employment Length**: Borrower employment insights (Bar Chart)
 - **Loan Purpose**: Reasons for borrowing (Bar Chart)
 - **Home Ownership**: Ownership patterns and impact on loans (Tree Map)
+<img width="669" alt="Screenshot 2025-06-08 103352" src="https://github.com/user-attachments/assets/2f20ad64-2e04-4fdb-9a5e-4725e323e8fe" />
 
 ---
 
@@ -63,6 +65,7 @@ Visual analytics to detect patterns:
 - Full data grid with borrower details
 - Loan performance metrics
 - Easy access to granular loan and borrower insights
+<img width="670" alt="Screenshot 2025-06-08 103546" src="https://github.com/user-attachments/assets/52742cff-f15a-4418-86fe-967f20fdbf7f" />
 
 ---
 
